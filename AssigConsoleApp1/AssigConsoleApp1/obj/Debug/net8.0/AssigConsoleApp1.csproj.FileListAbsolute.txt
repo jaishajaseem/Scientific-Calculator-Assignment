@@ -1,0 +1,14 @@
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\bin\Debug\net8.0\AssigConsoleApp1.exe
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\bin\Debug\net8.0\AssigConsoleApp1.deps.json
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\bin\Debug\net8.0\AssigConsoleApp1.runtimeconfig.json
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\bin\Debug\net8.0\AssigConsoleApp1.dll
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\bin\Debug\net8.0\AssigConsoleApp1.pdb
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\AssigConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\AssigConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\AssigConsoleApp1.AssemblyInfo.cs
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\AssigConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\AssigConsoleApp1.dll
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\refint\AssigConsoleApp1.dll
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\AssigConsoleApp1.pdb
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\AssigConsoleApp1.genruntimeconfig.cache
+C:\Users\jaish\source\repos\AssigConsoleApp1\AssigConsoleApp1\obj\Debug\net8.0\ref\AssigConsoleApp1.dll
